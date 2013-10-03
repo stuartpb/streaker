@@ -18,4 +18,4 @@ Plug your feed URL into the app as the input to an externally managed feed reade
 
 ## Why?
 
-Because I have a pigheaded sense of pride about my GitHub streak, and I want notifications when I'm in danger of breaking it, so I don't just absentmindedly forget to contribute one day and kill my streak (which has happened a few times in the past).
+Because I have a pigheaded sense of pride about my GitHub streak, and I want notifications when I'm in danger of breaking it, so I don't just absentmindedly forget to contribute one day and kill my streak (as I did on [September 29, 2013](https://github.com/stuartpb?tab=contributions&from=2013-09-29)).

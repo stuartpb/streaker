@@ -4,6 +4,10 @@ Translates GitHub activity feeds into contribution streak status feeds.
 
 (NOTE: README-driven development, doc state does not reflect code state)
 
+## Update
+
+Development on this project as described, beyond the initial planning stage, was discontinued in favor of a self-contained [on{x} recipe](https://www.onx.ms/#!recipeEditPage?scriptId=1380788571578731581&isPublished=true).
+
 ## How does this work?
 
 GET a route in the app, the server will read your current GH activity feed and return an RSS item representing your current streak status. (Yes, _an_ item. It's ephemeral data- this only cares about whether you're streaking or you're not, the past is inconsequential.)
